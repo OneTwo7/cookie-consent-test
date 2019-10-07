@@ -1,0 +1,14 @@
+{
+	"extends": "@kraftvaerk/eslint-config",
+	"parser": "babel-eslint",
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType": "module"
+	},
+	"rules": {
+		"comma-dangle": [
+			2,
+			"always-multiline"
+		]
+	}
+}

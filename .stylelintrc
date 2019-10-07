@@ -1,0 +1,7 @@
+{
+  "extends": "@kraftvaerk/stylelint-config",
+  "ignoreFiles": "**/*.js",
+  "rules": {
+    "selector-max-id": 1
+  }
+}
